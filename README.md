@@ -1,6 +1,5 @@
 # WWDC20-Scholarship
 ### What are digital certificate and signature? What can we do with them?
-<br>
 A WWDC20 Scholarship program created by RoyRao.
 [Accepted] 🎗🎗🎗 <br>
 <hr>
